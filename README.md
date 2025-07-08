@@ -43,11 +43,10 @@
 
 ### 🔥 What I Do:
 - 🤖 Build intelligent AI systems and autonomous agents
-- 📊 Transform raw data into actionable insights
-- 🖥️ Create end-to-end automated solutions
-- 🎯 Develop computer vision applications
-- 🌐 Design scalable data pipelines
-
+- 📊 Use raw Data and drip every bit of meaning out of it
+- 🖥 Create end-to-end automated solutions
+- 🎯 Sometimes I even teach Data Science (It's kinda cool)
+- 🌐 Statistical Analysis is my secret sauce
 </td>
 <td width="50%">
 
