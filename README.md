@@ -1,4 +1,4 @@
-# 🚀 Soumyajit Biswas - Data Scientist & AI Engineer but most Importantly an Innovator
+# 🚀 Soumyajit Biswas - Data Scientist & AI Engineer, but most importantly, an Innovator
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe!&fontSize=40&fontAlignY=65&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Innovation%20Catalyst&descAlignY=85&animation=twinkling" />
