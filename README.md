@@ -1,11 +1,11 @@
 # 🚀 Soumyajit Biswas - Data Scientist & AI Engineer, but most importantly, an Innovator
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe!&fontSize=40&fontAlignY=65&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Innovation%20Catalyst&descAlignY=85&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe!&fontSize=40&fontAlignY=65&desc=Data%20Scientist%20%7[...]
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe!;Data+Scientist+%26+AI+Engineer;🤖+Building+Tomorrow's+Solutions;🚀+Turning+Data+into+Magic!;🎯+Solving+Complex+Problems;🧠+Creating+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe!;Data[...]
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=67D2E4&center=true&vCenter=true&width=600&height=30&lines=Creating+intelligent+systems+that+make+a+difference" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=67D2E4&center=true&vCenter=true&width=600&height=30&lines=Creating+intelligent+systems+that+ma[...]
 </div>
 
 <table align="center">
@@ -36,7 +36,8 @@
 <td width="50%">
 
 🔬 **Passionate Data Scientist** with expertise in **AI, Machine Learning, and Deep Learning**  
-🎯 Currently pursuing **B.Tech in IT** at RCCIIT Kolkata (CGPA: 7.99)  
+🎯 Currently pursuing **MSc in Data Science** at the University of Trier, Germany  
+📍 Based in the **Trier Region, Germany**  
 🌟 Specialized in **Generative AI, Computer Vision, and Multi-Agent Systems**  
 🏆 **Hackathon Finalist** | **Workshop Conductor** | **Patent Pending Innovator**  
 🎨 **Creative Problem Solver** with diverse interests in martial arts, photography, and exploration
@@ -68,7 +69,7 @@
 
 🛠️ Tech Arsenal
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=40&lines=Mastering+cutting-edge+technologies;Building+with+modern+tools;Creating+innovative+solutions" alt="Tech Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=40&lines=Mastering+cutting-edge+technologies;[...]
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,mysql,postgresql,mongodb,docker,git,fastapi,flask,vscode,linux,aws,gcp" alt="Tech Stack" />
@@ -141,7 +142,7 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=🚀+Building+the+Future+with+AI;🎯+Innovative+Solutions;🔥+Cutting-edge+Technology" alt="Project Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=🚀+Building+the+Future+with+AI;���[...]
 </div>
 
 <div align="center">
@@ -157,7 +158,7 @@
       </td>
       <td align="center" width="50%">
         <h3>🎯 SETU - Generative Business Intelligence Dashboard</h3>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit-7&repo=SETU-Generative-Business-Intelligence-Project&theme=react&border_color=6FC3DF&border_radius=10" alt="Business Intelligence" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit-7&repo=SETU-Generative-Business-Intelligence-Project&theme=react&border_color=6FC3DF&border_radius=10" alt="Busines[...]
         <br><br>
         <p>📹 Real-time Natural Language to SQL Query<br>
         🎯 Automated 70% of the most frequently used SQL Operations <br>
@@ -199,7 +200,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&height=40&lines=📈+Analyzing+my+coding+journey;🔥+Building+consistently;⚡+Always+improving" alt="Stats Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&height=40&lines=📈+Analyzing+my+coding+journey;���[...]
 </div>
 
 <div align="center">
@@ -208,7 +209,7 @@
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit-7&theme=react&border_color=6FC3DF&border_radius=10&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit-7&theme=react&border_color=6FC3DF&border_radius=10&hide_border=true&layout=compact" alt="Top Languages"[...]
 </div>
 
 <div align="center">
@@ -228,7 +229,7 @@
 ## 🎯 Key Achievements
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=35&lines=🏆+Celebrating+milestones+and+achievements;🚀+Making+an+impact+in+tech;⭐+Recognized+for+excellence" alt="Achievement Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=35&lines=🏆+Celebrating+milestones+and+achi[...]
 </div>
 
 <div align="center">
@@ -261,7 +262,7 @@
 ## 🎨 Beyond Code
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=40&lines=🎨+Life+beyond+screens;🌟+Exploring+diverse+passions;🚀+Balanced+living" alt="Beyond Code Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=40&lines=🎨+Life+beyond+screens;🌟+Explor[...]
 </div>
 
 <div align="center">
@@ -300,7 +301,7 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=40&lines=🌐+Let's+build+something+amazing+together!;📫+Open+to+collaborations;💬+Always+ready+to+chat" alt="Connect Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=40&lines=🌐+Let's+build+something+amazing+t[...]
 </div>
 
 <div align="center">
@@ -312,6 +313,9 @@
   </a>
   <a href="https://github.com/Soumyajit-7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://maps.google.com/?q=Trier+Germany" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Trier%2C%20Germany-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
   <a href="tel:+917585038850">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
@@ -325,13 +329,13 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descMore=Future%20is%20built%20by%20dreamers%20like%20us!&descAlignY=85&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&desc=Let's%20build%20something%20amazing%[...]
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Always+ready+for+new+challenges!;🌟+Turning+ideas+into+reality;🚀+Building+the+future+with+AI!;💡+Innovation+is+my+passion;🔥+Let's+create+something+epic!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Always+ready+for+new+challenges!;[...]
 </div>
 
 <div align="center">
