@@ -36,7 +36,7 @@
 <td width="50%">
 
 🔬 **Passionate Data Scientist** with expertise in **AI, Machine Learning, and Deep Learning**  
-🎯 Currently pursuing **B.Tech in IT** at RCCIIT Kolkata (CGPA: 7.99)  
+🎯 Currently pursuing **MSc in Data Science** at UNIVERSITÄT TRIER  
 🌟 Specialized in **Generative AI, Computer Vision, and Multi-Agent Systems**  
 🏆 **Hackathon Finalist** | **Workshop Conductor** | **Patent Pending Innovator**  
 🎨 **Creative Problem Solver** with diverse interests in martial arts, photography, and exploration
